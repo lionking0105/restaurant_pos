@@ -37,4 +37,4 @@ Homer's Pub (Restaurant Point of Sale) - web application for managing orders and
 1. Clone repo:
 
 ```bash
-git clone https://github.com/dmitry-lapin/restaurant-pos.git
+git clone https://github.com/lionking0105/restaurant-pos.git
